@@ -4,7 +4,16 @@ h1{
 	background-color: #9966ff
 }
 footer{
-	margin-top: 70px;
+	margin-top: 200px;
 	height:5px;
 	background-color:#4aaaa5;
+}
+div{
+	float:left;
+	width:120px;
+	height: 120px;
+	border: solid #777777 2px;
+	margin: 15px;
+	margin-left: 25px;
+	background-size: 120px 120px;
 }
