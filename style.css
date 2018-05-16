@@ -15,5 +15,6 @@ div{
 	border: solid #777777 2px;
 	margin: 15px;
 	margin-left: 25px;
+	background-image: url(puppy.jpg);
 	background-size: 120px 120px;
 }
